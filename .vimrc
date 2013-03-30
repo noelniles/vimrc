@@ -31,3 +31,4 @@ set foldmethod=manual
 set foldnestmax=10
 set nofoldenable
 set foldlevel=2
+set colorcolumn=79
